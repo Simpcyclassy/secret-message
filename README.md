@@ -41,7 +41,9 @@ Output the encoded text in chunks that fill perfect rectangles ​(r X c)​, wi
 of ​r​ length, separated by spaces. For phrases that are ​n​characters short of the
 perfect rectangle, pad each of the last ​n​ chunks with a single trailing space.
 
->"imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn sseoau "Notice that were we to stack these, we could visually decode the ciphertext back in
+>"imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn sseoau "
+
+Notice that were we to stack these, we could visually decode the ciphertext back in
 to the original message:
 
 ```
